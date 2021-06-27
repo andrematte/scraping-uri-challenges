@@ -6,4 +6,4 @@
 
 This code performs the web scraping of URI's challenges information such as Number, Name, URL and Author. Data is stored in a csv file.
 
-This is an on going project, in the future I would like to scrape a more detailed set of informations on each problem. 
+This is an on going project, in the future I would like to scrape a more detailed set of information on each problem. 
