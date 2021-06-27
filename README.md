@@ -1,4 +1,4 @@
-# Scraping Programming Challenges from URI Online Judge
+# Scraping Challenges from URI Online Judge
 
 ![alt text](https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png?1591503281)
 
