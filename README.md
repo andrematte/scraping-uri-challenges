@@ -4,6 +4,6 @@
 
 [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt) is an online platform for competitive programming challenges. 
 
-This code performs the web scraping of URI's challenges information such as Number, Name, URL and Author. Data is stored in a csv file.
+This code performs the web scraping of URI's challenges information such as Number, Name, URL and more. Data is stored in a csv file.
 
-This is an on going project, in the future I would like to scrape a more detailed set of information on each problem. 
+This is an on going project, in the future I would like to write a detailed blog post about the process and perform a data analysis.
