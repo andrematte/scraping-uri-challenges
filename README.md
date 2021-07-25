@@ -1,5 +1,8 @@
 # Scraping Challenges from URI Online Judge
 
+![](https://img.shields.io/github/license/andrematte/scraping-uri-challenges?color=red&label=License&style=for-the-badge) ![](https://img.shields.io/github/stars/andrematte/scraping-uri-challenges?logo=github&style=for-the-badge)
+
+
 ![alt text](https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png?1591503281)
 
 [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt) is an online platform for competitive programming challenges. 
